@@ -6,7 +6,7 @@ A unique (to my knowledge) twist on standard tower-defence where you have to kil
 All instructions and credits are in the game.
 Be aware it might be slightly buggy, especially on slow computers; the pathfinding algorithm is super inefficient and python is slow.
 
-I am currently remaking this game in unity where it is looking to be a much smoother and overall better experience. It will hopefully be done by Christmas.
+I am currently remaking this game in unity where it is looking to be a much smoother and overall better and less buggy experience.
 
 Installation:
 
@@ -16,3 +16,4 @@ Notes on launching the game:
 
 The game takes a while to launch - please wait around 10 seconds and don't click on the text window that first comes up.
 The game will crash instantly if there is no available audio device; make sure you have speakers or headphones enabled and working if the game crashes.
+The game may crash or look weird on resolutions other than 1920 by 1080.
