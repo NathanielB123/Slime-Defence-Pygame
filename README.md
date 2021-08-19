@@ -1,6 +1,6 @@
 # Slime-Defence-Pygame
 
-(Yes I know I spelt "defense" the American way, no I'm not going to change it, technically I was born in America and I am a US citizen so that's my excuse!)
+(Yes I know I spelt "defence" the American way in the main menu, no I'm not going to change it, technically I was born in America and I am a US citizen so that's my excuse!)
 
 A game I created at the start of the summer holidays but decided to upload now.
 
