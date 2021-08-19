@@ -5,8 +5,6 @@ A unique (to my knowledge) twist on a standard tower-defence game where you have
 All instructions and credits are in the game.
 Be aware it might be slightly buggy, especially on slow computers; the pathfinding algorithm is super inefficient and python is slow.
 
-I am currently remaking this game in unity where it is looking to be a much smoother and overall better and less buggy experience.
-
 Installation:
 
 Simply download, extract and run Slime Defence.exe to play the game
