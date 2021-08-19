@@ -1,7 +1,4 @@
 # Slime-Defence-Pygame
-
-(Yes I know I spelt "defence" the American way in the main menu, no I'm not going to change it, technically I was born in America and I am a US citizen so that's my excuse!)
-
 A game I created at the start of the summer holidays but decided to upload now.
 
 A unique (to my knowledge) twist on standard tower-defence where you have to kill enemies to place walls, turrets and traps instead of purchasing and placing them directly.
