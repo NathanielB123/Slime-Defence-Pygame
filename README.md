@@ -1,7 +1,7 @@
 # Slime-Defence-Pygame
 A game I created at the start of the summer holidays but decided to upload now.
 
-A unique (to my knowledge) twist on a standard tower-defence game where you have to kill enemies to place walls, turrets and traps instead of purchasing and placing them directly.
+A unique (to my knowledge) twist on a standard tower-defence game where shooting enemies causes them to turn into the walls, turrets and traps to aid you instead of you purchasing and placing them directly.
 All instructions and credits are in the game.
 Be aware it might be slightly buggy, especially on slow computers; the pathfinding algorithm is super inefficient and python is slow.
 
